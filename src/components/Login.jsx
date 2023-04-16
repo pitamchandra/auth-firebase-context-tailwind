@@ -44,7 +44,7 @@ const Login = () => {
                                 </label>
                             </div>
                             <div className="form-control mt-6">
-                                <button className="btn btn-primary">Login</button>
+                                <button  className="btn btn-primary">Login</button>
                             </div>
                             <label className="label">
                                 <Link to="/register" className="label-text-alt link link-hover">New to smart page? please register.</Link>
